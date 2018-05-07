@@ -1,0 +1,21 @@
+.wrap {
+    width: 100%;
+    overflow:auto;
+}
+
+.fleft {
+    float:left; 
+    width: 60%;
+/* background:lightblue; */
+    height: 400px;
+}
+
+
+
+.fright {
+float: right;
+    background:AliceBlue;
+    height: 400px;
+    width: 40%;
+    
+}

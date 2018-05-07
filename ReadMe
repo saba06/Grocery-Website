@@ -1,0 +1,31 @@
+We have created two type for logins to accomodate the type of users :
+1.Customers - on selecting the 'C' radio button.
+2.Staff - on selecting the 'S' radio button.
+
+
+When Customer logins in,
+
+Customer can see the following :
+1.Can see his name in the screen.
+2.Can search the product from the search bar.
+
+ 
+Customer can do the following :
+
+1.Add/Delete/Modify the address.
+2.Add the products to the cart.
+3.Add the number of quantity.
+4.Add/Delete/Modify the credit card number.
+5.Place an order.
+
+
+When Staff logins in,
+
+Staff can see the following :
+1.The staff name, address, salary and thejob title.
+2.The products list.
+
+Staff can do the following :
+1.Add/Delete/Modify the product.
+2.Add/Delete/Modify the product pricing.
+3.Add products to individual warehouses.
